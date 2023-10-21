@@ -18,7 +18,8 @@ phonics = {
 	ll={name="ll", length=.20, gain=1, also_silent=0},	--used javanese text 
 	m={name="m", length=.65, gain=1, also_silent=0},
 	n={name="n", length=.65, gain=1, also_silent=0},	
- 	_n={name="~n", length=.17, gain=50, also_silent=0},  --***need sound & length
+ 	--_n={name="~n", length=.17, gain=50, also_silent=0},  --***need sound & length
+	_n={name="~n", length=1.87, gain=50, also_silent=0},  --***need sound & length
 	o={name="o", length=.65, gain=1, also_silent=0},
 	p={name="p", length=.35, gain=1, also_silent=0},	
 	q={name="q", length=.3, gain=1, also_silent=0},	
